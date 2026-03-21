@@ -1,0 +1,5550 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 383
+  },
+  "data": [
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": 4,
+        "scheduled": "2026-03-20T18:45:00+00:00",
+        "estimated": "2026-03-20T18:45:00+00:00",
+        "actual": "2026-03-20T19:07:00+00:00",
+        "estimated_runway": "2026-03-20T19:07:00+00:00",
+        "actual_runway": "2026-03-20T19:07:00+00:00"
+      },
+      "arrival": {
+        "airport": null,
+        "timezone": null,
+        "iata": "MHL",
+        "icao": "KMHL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T19:40:00+00:00",
+        "delay": 22,
+        "estimated": "2026-03-20T19:44:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pacific Coast Jet",
+        "iata": null,
+        "icao": "PXT"
+      },
+      "flight": {
+        "number": null,
+        "iata": null,
+        "icao": "PXT",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ACBF02"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T19:00:00+00:00",
+        "estimated": "2026-03-20T19:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Blue Grass",
+        "timezone": "America/New_York",
+        "iata": "LEX",
+        "icao": "KLEX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T20:05:00+00:00",
+        "delay": 14,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "empty",
+        "iata": null,
+        "icao": null
+      },
+      "flight": {
+        "number": null,
+        "iata": null,
+        "icao": null,
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9B389"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:30:00+00:00",
+        "estimated": "2026-03-20T21:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Salt Lake City International",
+        "timezone": "America/Denver",
+        "iata": "SLC",
+        "icao": "KSLC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T23:04:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Charter Airlines",
+        "iata": null,
+        "icao": "RKJ"
+      },
+      "flight": {
+        "number": "232",
+        "iata": null,
+        "icao": "RKJ232",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T22:19:00+00:00",
+        "estimated": "2026-03-20T22:19:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Memphis International",
+        "timezone": "America/Chicago",
+        "iata": "MEM",
+        "icao": "KMEM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T22:59:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "FedEx",
+        "iata": "FX",
+        "icao": "FDX"
+      },
+      "flight": {
+        "number": "1346",
+        "iata": "FX1346",
+        "icao": "FDX1346",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A10",
+        "delay": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "estimated": "2026-03-20T22:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Orlando International",
+        "timezone": "America/New_York",
+        "iata": "MCO",
+        "icao": "KMCO",
+        "terminal": "A",
+        "gate": "13",
+        "baggage": "6",
+        "scheduled": "2026-03-21T00:42:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "1916",
+        "iata": "F91916",
+        "icao": "FFT1916",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A38527"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A6",
+        "delay": null,
+        "scheduled": "2026-03-20T21:48:00+00:00",
+        "estimated": "2026-03-20T21:48:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Southwest Florida International",
+        "timezone": "America/New_York",
+        "iata": "RSW",
+        "icao": "KRSW",
+        "terminal": null,
+        "gate": "B7",
+        "baggage": "13",
+        "scheduled": "2026-03-21T00:43:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "1546",
+        "iata": "F91546",
+        "icao": "FFT1546",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A3E55A"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:45:00+00:00",
+        "estimated": "2026-03-20T21:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-21T08:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aer Lingus",
+        "iata": "EI",
+        "icao": "EIN"
+      },
+      "flight": {
+        "number": "86",
+        "iata": "EI86",
+        "icao": "EIN86",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4CABD2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:45:00+00:00",
+        "estimated": "2026-03-20T21:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-21T08:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "6204",
+        "iata": "QR6204",
+        "icao": "QTR6204",
+        "codeshared": {
+          "airline_name": "aer lingus",
+          "airline_iata": "ei",
+          "airline_icao": "ein",
+          "flight_number": "86",
+          "flight_iata": "ei86",
+          "flight_icao": "ein86"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4CABD2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:45:00+00:00",
+        "estimated": "2026-03-20T21:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-21T08:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Iberia",
+        "iata": "IB",
+        "icao": "IBE"
+      },
+      "flight": {
+        "number": "6026",
+        "iata": "IB6026",
+        "icao": "IBE6026",
+        "codeshared": {
+          "airline_name": "aer lingus",
+          "airline_iata": "ei",
+          "airline_icao": "ein",
+          "flight_number": "86",
+          "flight_iata": "ei86",
+          "flight_icao": "ein86"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4CABD2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:45:00+00:00",
+        "estimated": "2026-03-20T21:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-21T08:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "6126",
+        "iata": "BA6126",
+        "icao": "BAW6126",
+        "codeshared": {
+          "airline_name": "aer lingus",
+          "airline_iata": "ei",
+          "airline_icao": "ein",
+          "flight_number": "86",
+          "flight_iata": "ei86",
+          "flight_icao": "ein86"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4CABD2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:45:00+00:00",
+        "estimated": "2026-03-20T21:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-21T08:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "8066",
+        "iata": "AA8066",
+        "icao": "AAL8066",
+        "codeshared": {
+          "airline_name": "aer lingus",
+          "airline_iata": "ei",
+          "airline_icao": "ein",
+          "flight_number": "86",
+          "flight_iata": "ei86",
+          "flight_icao": "ein86"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4CABD2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T21:26:00+00:00",
+        "estimated": "2026-03-20T21:26:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Louisville International (Standiford Field)",
+        "timezone": "America/Kentucky/Louisville",
+        "iata": "SDF",
+        "icao": "KSDF",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T22:30:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "UPS Airlines",
+        "iata": "5X",
+        "icao": "UPS"
+      },
+      "flight": {
+        "number": "1441",
+        "iata": "5X1441",
+        "icao": "UPS1441",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C29",
+        "delay": null,
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "estimated": "2026-03-20T19:59:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Washington Dulles International",
+        "timezone": "America/New_York",
+        "iata": "IAD",
+        "icao": "KIAD",
+        "terminal": null,
+        "gate": "D2",
+        "baggage": "1",
+        "scheduled": "2026-03-20T21:16:00+00:00",
+        "delay": 11,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "7741",
+        "iata": "LH7741",
+        "icao": "DLH7741",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "2378",
+          "flight_iata": "ua2378",
+          "flight_icao": "ual2378"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AB6CB0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C29",
+        "delay": null,
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "estimated": "2026-03-20T19:59:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Washington Dulles International",
+        "timezone": "America/New_York",
+        "iata": "IAD",
+        "icao": "KIAD",
+        "terminal": null,
+        "gate": "D2",
+        "baggage": "1",
+        "scheduled": "2026-03-20T21:16:00+00:00",
+        "delay": 11,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Copa Airlines",
+        "iata": "CM",
+        "icao": "CMP"
+      },
+      "flight": {
+        "number": "1089",
+        "iata": "CM1089",
+        "icao": "CMP1089",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "2378",
+          "flight_iata": "ua2378",
+          "flight_icao": "ual2378"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AB6CB0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": 5,
+        "scheduled": "2026-03-20T14:30:00+00:00",
+        "estimated": "2026-03-20T14:30:00+00:00",
+        "actual": "2026-03-20T15:01:00+00:00",
+        "estimated_runway": "2026-03-20T15:01:00+00:00",
+        "actual_runway": "2026-03-20T15:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Teterboro",
+        "timezone": "America/New_York",
+        "iata": "TEB",
+        "icao": "KTEB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T15:50:00+00:00",
+        "delay": 31,
+        "estimated": "2026-03-20T15:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "empty",
+        "iata": null,
+        "icao": null
+      },
+      "flight": {
+        "number": null,
+        "iata": null,
+        "icao": null,
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9DA3B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B10",
+        "delay": null,
+        "scheduled": "2026-03-20T20:45:00+00:00",
+        "estimated": "2026-03-20T20:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nashville International",
+        "timezone": "America/Chicago",
+        "iata": "BNA",
+        "icao": "KBNA",
+        "terminal": null,
+        "gate": "D2",
+        "baggage": null,
+        "scheduled": "2026-03-20T21:25:00+00:00",
+        "delay": 72,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Southwest Airlines",
+        "iata": "WN",
+        "icao": "SWA"
+      },
+      "flight": {
+        "number": "3438",
+        "iata": "WN3438",
+        "icao": "SWA3438",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AD6595"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A2",
+        "delay": null,
+        "scheduled": "2026-03-20T20:36:00+00:00",
+        "estimated": "2026-03-20T20:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Harry Reid International Airport",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAS",
+        "icao": "KLAS",
+        "terminal": "3",
+        "gate": "E8X",
+        "baggage": "11",
+        "scheduled": "2026-03-20T22:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "1821",
+        "iata": "F91821",
+        "icao": "FFT1821",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A48E7B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-03-20T18:24:00+00:00",
+        "estimated": "2026-03-20T18:24:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Philadelphia International",
+        "timezone": "America/New_York",
+        "iata": "PHL",
+        "icao": "KPHL",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-03-20T19:24:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "NetJets Aviation",
+        "iata": "1I",
+        "icao": "EJA"
+      },
+      "flight": {
+        "number": "257",
+        "iata": "1I257",
+        "icao": "EJA257",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C29",
+        "delay": null,
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "estimated": "2026-03-20T19:59:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Washington Dulles International",
+        "timezone": "America/New_York",
+        "iata": "IAD",
+        "icao": "KIAD",
+        "terminal": null,
+        "gate": "D2",
+        "baggage": "1",
+        "scheduled": "2026-03-20T21:16:00+00:00",
+        "delay": 11,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "3609",
+        "iata": "AC3609",
+        "icao": "ACA3609",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "2378",
+          "flight_iata": "ua2378",
+          "flight_icao": "ual2378"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AB6CB0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T19:57:00+00:00",
+        "estimated": "2026-03-20T19:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "B06",
+        "baggage": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "delay": 22,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "2551",
+        "iata": "VS2551",
+        "icao": "VIR2551",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "1350",
+          "flight_iata": "dl1350",
+          "flight_icao": "dal1350"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A44969"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T19:57:00+00:00",
+        "estimated": "2026-03-20T19:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "B06",
+        "baggage": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "delay": 22,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6479",
+        "iata": "LA6479",
+        "icao": "LAN6479",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "1350",
+          "flight_iata": "dl1350",
+          "flight_icao": "dal1350"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A44969"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T19:57:00+00:00",
+        "estimated": "2026-03-20T19:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "B06",
+        "baggage": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "delay": 22,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "5501",
+        "iata": "KL5501",
+        "icao": "KLM5501",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "1350",
+          "flight_iata": "dl1350",
+          "flight_icao": "dal1350"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A44969"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T19:57:00+00:00",
+        "estimated": "2026-03-20T19:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "B06",
+        "baggage": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "delay": 22,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "3518",
+        "iata": "KE3518",
+        "icao": "KAL3518",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "1350",
+          "flight_iata": "dl1350",
+          "flight_icao": "dal1350"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A44969"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T19:57:00+00:00",
+        "estimated": "2026-03-20T19:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "B06",
+        "baggage": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "delay": 22,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "2603",
+        "iata": "AF2603",
+        "icao": "AFR2603",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "1350",
+          "flight_iata": "dl1350",
+          "flight_icao": "dal1350"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A44969"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C18",
+        "delay": null,
+        "scheduled": "2026-03-20T19:34:00+00:00",
+        "estimated": "2026-03-20T19:34:00+00:00",
+        "actual": "2026-03-20T19:45:00+00:00",
+        "estimated_runway": "2026-03-20T19:45:00+00:00",
+        "actual_runway": "2026-03-20T19:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "2",
+        "gate": "E5",
+        "baggage": "14",
+        "scheduled": "2026-03-20T20:20:00+00:00",
+        "delay": 12,
+        "estimated": "2026-03-20T19:42:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "2176",
+        "iata": "NZ2176",
+        "icao": "ANZ2176",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3492",
+          "flight_iata": "ua3492",
+          "flight_icao": "ual3492"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9CD47"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C18",
+        "delay": null,
+        "scheduled": "2026-03-20T19:34:00+00:00",
+        "estimated": "2026-03-20T19:34:00+00:00",
+        "actual": "2026-03-20T19:45:00+00:00",
+        "estimated_runway": "2026-03-20T19:45:00+00:00",
+        "actual_runway": "2026-03-20T19:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "2",
+        "gate": "E5",
+        "baggage": "14",
+        "scheduled": "2026-03-20T20:20:00+00:00",
+        "delay": 12,
+        "estimated": "2026-03-20T19:42:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "7747",
+        "iata": "LH7747",
+        "icao": "DLH7747",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3492",
+          "flight_iata": "ua3492",
+          "flight_icao": "ual3492"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9CD47"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C5",
+        "delay": null,
+        "scheduled": "2026-03-20T20:07:00+00:00",
+        "estimated": "2026-03-20T20:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ronald Reagan Washington National Airport",
+        "timezone": "America/New_York",
+        "iata": "DCA",
+        "icao": "KDCA",
+        "terminal": "2",
+        "gate": "E52",
+        "baggage": "7",
+        "scheduled": "2026-03-20T21:30:00+00:00",
+        "delay": 34,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "5226",
+        "iata": "AA5226",
+        "icao": "AAL5226",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A6B840"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B11",
+        "delay": null,
+        "scheduled": "2026-03-20T20:05:00+00:00",
+        "estimated": "2026-03-20T20:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Lambert-St. Louis International",
+        "timezone": "America/Chicago",
+        "iata": "STL",
+        "icao": "KSTL",
+        "terminal": "2",
+        "gate": "E8",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:50:00+00:00",
+        "delay": 14,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Southwest Airlines",
+        "iata": "WN",
+        "icao": "SWA"
+      },
+      "flight": {
+        "number": "1891",
+        "iata": "WN1891",
+        "icao": "SWA1891",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC042A"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C29",
+        "delay": null,
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "estimated": "2026-03-20T19:59:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Washington Dulles International",
+        "timezone": "America/New_York",
+        "iata": "IAD",
+        "icao": "KIAD",
+        "terminal": null,
+        "gate": "D2",
+        "baggage": "1",
+        "scheduled": "2026-03-20T21:16:00+00:00",
+        "delay": 11,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "2378",
+        "iata": "UA2378",
+        "icao": "UAL2378",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AB6CB0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T19:57:00+00:00",
+        "estimated": "2026-03-20T19:57:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "D03",
+        "baggage": null,
+        "scheduled": "2026-03-20T22:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "1350",
+        "iata": "DL1350",
+        "icao": "DAL1350",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A44969"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B10",
+        "delay": null,
+        "scheduled": "2026-03-20T19:50:00+00:00",
+        "estimated": "2026-03-20T19:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Midway",
+        "timezone": "America/Chicago",
+        "iata": "MDW",
+        "icao": "KMDW",
+        "terminal": null,
+        "gate": "B16",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:10:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Southwest Airlines",
+        "iata": "WN",
+        "icao": "SWA"
+      },
+      "flight": {
+        "number": "2211",
+        "iata": "WN2211",
+        "icao": "SWA2211",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N439WN",
+        "iata": "B737",
+        "icao": "B737",
+        "icao24": "A5468E"
+      },
+      "live": {
+        "updated": "2026-03-21T00:03:19+00:00",
+        "latitude": 41.4005,
+        "longitude": -81.8697,
+        "altitude": 0,
+        "direction": 230,
+        "speed_horizontal": 53.708,
+        "speed_vertical": 0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C18",
+        "delay": null,
+        "scheduled": "2026-03-20T19:34:00+00:00",
+        "estimated": "2026-03-20T19:34:00+00:00",
+        "actual": "2026-03-20T19:45:00+00:00",
+        "estimated_runway": "2026-03-20T19:45:00+00:00",
+        "actual_runway": "2026-03-20T19:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "2",
+        "gate": "E5",
+        "baggage": "14",
+        "scheduled": "2026-03-20T20:20:00+00:00",
+        "delay": 12,
+        "estimated": "2026-03-20T19:42:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "3492",
+        "iata": "UA3492",
+        "icao": "UAL3492",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N730YX",
+        "iata": "E75L",
+        "icao": "E75L",
+        "icao24": "A9CD47"
+      },
+      "live": {
+        "updated": "2026-03-21T00:03:19+00:00",
+        "latitude": 41.3377,
+        "longitude": -83.5491,
+        "altitude": 8534.4,
+        "direction": 268,
+        "speed_horizontal": 659.312,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C18",
+        "delay": null,
+        "scheduled": "2026-03-20T19:34:00+00:00",
+        "estimated": "2026-03-20T19:34:00+00:00",
+        "actual": "2026-03-20T19:45:00+00:00",
+        "estimated_runway": "2026-03-20T19:45:00+00:00",
+        "actual_runway": "2026-03-20T19:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "2",
+        "gate": "E5",
+        "baggage": "14",
+        "scheduled": "2026-03-20T20:20:00+00:00",
+        "delay": 12,
+        "estimated": "2026-03-20T19:42:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Copa Airlines",
+        "iata": "CM",
+        "icao": "CMP"
+      },
+      "flight": {
+        "number": "1784",
+        "iata": "CM1784",
+        "icao": "CMP1784",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3492",
+          "flight_iata": "ua3492",
+          "flight_icao": "ual3492"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9CD47"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B4B",
+        "delay": null,
+        "scheduled": "2026-03-20T19:26:00+00:00",
+        "estimated": "2026-03-20T19:26:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Detroit Metropolitan Wayne County",
+        "timezone": "America/Detroit",
+        "iata": "DTW",
+        "icao": "KDTW",
+        "terminal": "M",
+        "gate": "B7",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:31:00+00:00",
+        "delay": 61,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "4954",
+        "iata": "DL4954",
+        "icao": "DAL4954",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A33AA7"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B4B",
+        "delay": null,
+        "scheduled": "2026-03-20T19:26:00+00:00",
+        "estimated": "2026-03-20T19:26:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Detroit Metropolitan Wayne County",
+        "timezone": "America/Detroit",
+        "iata": "DTW",
+        "icao": "KDTW",
+        "terminal": "M",
+        "gate": "B7",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:31:00+00:00",
+        "delay": 61,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "WestJet",
+        "iata": "WS",
+        "icao": "WJA"
+      },
+      "flight": {
+        "number": "8057",
+        "iata": "WS8057",
+        "icao": "WJA8057",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4954",
+          "flight_iata": "dl4954",
+          "flight_icao": "dal4954"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A33AA7"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B4B",
+        "delay": null,
+        "scheduled": "2026-03-20T19:26:00+00:00",
+        "estimated": "2026-03-20T19:26:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Detroit Metropolitan Wayne County",
+        "timezone": "America/Detroit",
+        "iata": "DTW",
+        "icao": "KDTW",
+        "terminal": "M",
+        "gate": "B7",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:31:00+00:00",
+        "delay": 61,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "1618",
+        "iata": "VS1618",
+        "icao": "VIR1618",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4954",
+          "flight_iata": "dl4954",
+          "flight_icao": "dal4954"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A33AA7"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B4B",
+        "delay": null,
+        "scheduled": "2026-03-20T19:26:00+00:00",
+        "estimated": "2026-03-20T19:26:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Detroit Metropolitan Wayne County",
+        "timezone": "America/Detroit",
+        "iata": "DTW",
+        "icao": "KDTW",
+        "terminal": "M",
+        "gate": "B7",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:31:00+00:00",
+        "delay": 61,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "5936",
+        "iata": "KL5936",
+        "icao": "KLM5936",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4954",
+          "flight_iata": "dl4954",
+          "flight_icao": "dal4954"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A33AA7"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B4B",
+        "delay": null,
+        "scheduled": "2026-03-20T19:26:00+00:00",
+        "estimated": "2026-03-20T19:26:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Detroit Metropolitan Wayne County",
+        "timezone": "America/Detroit",
+        "iata": "DTW",
+        "icao": "KDTW",
+        "terminal": "M",
+        "gate": "B7",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:31:00+00:00",
+        "delay": 61,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "2856",
+        "iata": "AF2856",
+        "icao": "AFR2856",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4954",
+          "flight_iata": "dl4954",
+          "flight_icao": "dal4954"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A33AA7"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T19:20:00+00:00",
+        "estimated": "2026-03-20T19:20:00+00:00",
+        "actual": "2026-03-20T19:40:00+00:00",
+        "estimated_runway": "2026-03-20T19:40:00+00:00",
+        "actual_runway": "2026-03-20T19:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "LaGuardia",
+        "timezone": "America/New_York",
+        "iata": "LGA",
+        "icao": "KLGA",
+        "terminal": "C",
+        "gate": "66",
+        "baggage": null,
+        "scheduled": "2026-03-20T21:02:00+00:00",
+        "delay": 21,
+        "estimated": "2026-03-20T20:44:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "5194",
+        "iata": "DL5194",
+        "icao": "DAL5194",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N479PX",
+        "iata": "CRJ9",
+        "icao": "CRJ9",
+        "icao24": "A5E3E4"
+      },
+      "live": {
+        "updated": "2026-03-21T00:03:33+00:00",
+        "latitude": 41.0108,
+        "longitude": -79.3022,
+        "altitude": 10058.4,
+        "direction": 43,
+        "speed_horizontal": 757.468,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T19:18:00+00:00",
+        "estimated": "2026-03-20T19:18:00+00:00",
+        "actual": "2026-03-20T19:26:00+00:00",
+        "estimated_runway": "2026-03-20T19:26:00+00:00",
+        "actual_runway": "2026-03-20T19:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "L11",
+        "baggage": "9",
+        "scheduled": "2026-03-20T20:01:00+00:00",
+        "delay": 9,
+        "estimated": "2026-03-20T19:27:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "3514",
+        "iata": "AA3514",
+        "icao": "AAL3514",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N266NN",
+        "iata": "E75L",
+        "icao": "E75L",
+        "icao24": "A29680"
+      },
+      "live": {
+        "updated": "2026-03-21T00:03:20+00:00",
+        "latitude": 41.3472,
+        "longitude": -86.1931,
+        "altitude": 7315.2,
+        "direction": 286,
+        "speed_horizontal": 672.276,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T19:18:00+00:00",
+        "estimated": "2026-03-20T19:18:00+00:00",
+        "actual": "2026-03-20T19:26:00+00:00",
+        "estimated_runway": "2026-03-20T19:26:00+00:00",
+        "actual_runway": "2026-03-20T19:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "L11",
+        "baggage": "9",
+        "scheduled": "2026-03-20T20:01:00+00:00",
+        "delay": 9,
+        "estimated": "2026-03-20T19:27:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "1768",
+        "iata": "BA1768",
+        "icao": "BAW1768",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "3514",
+          "flight_iata": "aa3514",
+          "flight_icao": "aal3514"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A29680"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T19:18:00+00:00",
+        "estimated": "2026-03-20T19:18:00+00:00",
+        "actual": "2026-03-20T19:26:00+00:00",
+        "estimated_runway": "2026-03-20T19:26:00+00:00",
+        "actual_runway": "2026-03-20T19:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "L11",
+        "baggage": "9",
+        "scheduled": "2026-03-20T20:01:00+00:00",
+        "delay": 9,
+        "estimated": "2026-03-20T19:27:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "AlphaSky",
+        "iata": "AS",
+        "icao": "JAG"
+      },
+      "flight": {
+        "number": "6332",
+        "iata": "AS6332",
+        "icao": "JAG6332",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "3514",
+          "flight_iata": "aa3514",
+          "flight_icao": "aal3514"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A29680"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C26",
+        "delay": null,
+        "scheduled": "2026-03-20T19:12:00+00:00",
+        "estimated": "2026-03-20T19:12:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Newark Liberty International",
+        "timezone": "America/New_York",
+        "iata": "EWR",
+        "icao": "KEWR",
+        "terminal": "C",
+        "gate": "C82",
+        "baggage": "8",
+        "scheduled": "2026-03-20T20:57:00+00:00",
+        "delay": 50,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "3593",
+        "iata": "UA3593",
+        "icao": "UAL3593",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9F4C6"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C26",
+        "delay": null,
+        "scheduled": "2026-03-20T19:12:00+00:00",
+        "estimated": "2026-03-20T19:12:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Newark Liberty International",
+        "timezone": "America/New_York",
+        "iata": "EWR",
+        "icao": "KEWR",
+        "terminal": "C",
+        "gate": "C82",
+        "baggage": "8",
+        "scheduled": "2026-03-20T20:57:00+00:00",
+        "delay": 50,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "3135",
+        "iata": "AC3135",
+        "icao": "ACA3135",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3593",
+          "flight_iata": "ua3593",
+          "flight_icao": "ual3593"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9F4C6"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A10",
+        "delay": null,
+        "scheduled": "2026-03-20T19:08:00+00:00",
+        "estimated": "2026-03-20T19:08:00+00:00",
+        "actual": "2026-03-20T19:39:00+00:00",
+        "estimated_runway": "2026-03-20T19:39:00+00:00",
+        "actual_runway": "2026-03-20T19:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Tampa International",
+        "timezone": "America/New_York",
+        "iata": "TPA",
+        "icao": "KTPA",
+        "terminal": null,
+        "gate": "E75",
+        "baggage": "5",
+        "scheduled": "2026-03-20T21:48:00+00:00",
+        "delay": 31,
+        "estimated": "2026-03-20T21:46:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "2683",
+        "iata": "F92683",
+        "icao": "FFT2683",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A3414E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B11",
+        "delay": null,
+        "scheduled": "2026-03-20T18:45:00+00:00",
+        "estimated": "2026-03-20T18:45:00+00:00",
+        "actual": "2026-03-20T18:59:00+00:00",
+        "estimated_runway": "2026-03-20T18:59:00+00:00",
+        "actual_runway": "2026-03-20T18:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Denver International",
+        "timezone": "America/Denver",
+        "iata": "DEN",
+        "icao": "KDEN",
+        "terminal": null,
+        "gate": "C63",
+        "baggage": null,
+        "scheduled": "2026-03-20T20:05:00+00:00",
+        "delay": 15,
+        "estimated": "2026-03-20T19:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Southwest Airlines",
+        "iata": "WN",
+        "icao": "SWA"
+      },
+      "flight": {
+        "number": "503",
+        "iata": "WN503",
+        "icao": "SWA503",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC249E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A8",
+        "delay": null,
+        "scheduled": "2026-03-20T18:45:00+00:00",
+        "estimated": "2026-03-20T18:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Fort Lauderdale\u2013Hollywood International",
+        "timezone": "America/New_York",
+        "iata": "FLL",
+        "icao": "KFLL",
+        "terminal": null,
+        "gate": "A3",
+        "baggage": "4",
+        "scheduled": "2026-03-20T21:46:00+00:00",
+        "delay": 55,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "4258",
+        "iata": "F94258",
+        "icao": "FFT4258",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A967AE"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C4",
+        "delay": 10,
+        "scheduled": "2026-03-20T18:44:00+00:00",
+        "estimated": "2026-03-20T18:44:00+00:00",
+        "actual": "2026-03-20T19:01:00+00:00",
+        "estimated_runway": "2026-03-20T19:01:00+00:00",
+        "actual_runway": "2026-03-20T19:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Seattle-Tacoma International",
+        "timezone": "America/Los_Angeles",
+        "iata": "SEA",
+        "icao": "KSEA",
+        "terminal": null,
+        "gate": "N11",
+        "baggage": "13",
+        "scheduled": "2026-03-20T20:57:00+00:00",
+        "delay": 18,
+        "estimated": "2026-03-20T21:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Alaska Airlines",
+        "iata": "AS",
+        "icao": "ASA"
+      },
+      "flight": {
+        "number": "216",
+        "iata": "AS216",
+        "icao": "ASA216",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N448AS",
+        "iata": "B739",
+        "icao": "B739",
+        "icao24": "A56866"
+      },
+      "live": {
+        "updated": "2026-03-21T00:03:18+00:00",
+        "latitude": 41.8569,
+        "longitude": -90.1271,
+        "altitude": 10363.2,
+        "direction": 276,
+        "speed_horizontal": 713.02,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C4",
+        "delay": 10,
+        "scheduled": "2026-03-20T18:44:00+00:00",
+        "estimated": "2026-03-20T18:44:00+00:00",
+        "actual": "2026-03-20T19:01:00+00:00",
+        "estimated_runway": "2026-03-20T19:01:00+00:00",
+        "actual_runway": "2026-03-20T19:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Seattle-Tacoma International",
+        "timezone": "America/Los_Angeles",
+        "iata": "SEA",
+        "icao": "KSEA",
+        "terminal": null,
+        "gate": "N11",
+        "baggage": "13",
+        "scheduled": "2026-03-20T20:57:00+00:00",
+        "delay": 18,
+        "estimated": "2026-03-20T21:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Hawaiian Airlines",
+        "iata": "HA",
+        "icao": "HAL"
+      },
+      "flight": {
+        "number": "4852",
+        "iata": "HA4852",
+        "icao": "HAL4852",
+        "codeshared": {
+          "airline_name": "alaska airlines",
+          "airline_iata": "as",
+          "airline_icao": "asa",
+          "flight_number": "216",
+          "flight_iata": "as216",
+          "flight_icao": "asa216"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A56866"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C4",
+        "delay": 10,
+        "scheduled": "2026-03-20T18:44:00+00:00",
+        "estimated": "2026-03-20T18:44:00+00:00",
+        "actual": "2026-03-20T19:01:00+00:00",
+        "estimated_runway": "2026-03-20T19:01:00+00:00",
+        "actual_runway": "2026-03-20T19:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Seattle-Tacoma International",
+        "timezone": "America/Los_Angeles",
+        "iata": "SEA",
+        "icao": "KSEA",
+        "terminal": null,
+        "gate": "N11",
+        "baggage": "13",
+        "scheduled": "2026-03-20T20:57:00+00:00",
+        "delay": 18,
+        "estimated": "2026-03-20T21:07:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "9354",
+        "iata": "AA9354",
+        "icao": "AAL9354",
+        "codeshared": {
+          "airline_name": "alaska airlines",
+          "airline_iata": "as",
+          "airline_icao": "asa",
+          "flight_number": "216",
+          "flight_iata": "as216",
+          "flight_icao": "asa216"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A56866"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A1",
+        "delay": null,
+        "scheduled": "2026-03-20T18:31:00+00:00",
+        "estimated": "2026-03-20T18:31:00+00:00",
+        "actual": "2026-03-20T18:35:00+00:00",
+        "estimated_runway": "2026-03-20T18:35:00+00:00",
+        "actual_runway": "2026-03-20T18:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Fort Lauderdale\u2013Hollywood International",
+        "timezone": "America/New_York",
+        "iata": "FLL",
+        "icao": "KFLL",
+        "terminal": "4",
+        "gate": "F8",
+        "baggage": null,
+        "scheduled": "2026-03-20T21:20:00+00:00",
+        "delay": 5,
+        "estimated": "2026-03-20T20:49:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Spirit Airlines",
+        "iata": "NK",
+        "icao": "NKS"
+      },
+      "flight": {
+        "number": "3113",
+        "iata": "NK3113",
+        "icao": "NKS3113",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ACBF60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2026-03-20T18:22:00+00:00",
+        "estimated": "2026-03-20T18:22:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Miami International Airport",
+        "timezone": "America/New_York",
+        "iata": "MIA",
+        "icao": "KMIA",
+        "terminal": null,
+        "gate": "D5",
+        "baggage": "26",
+        "scheduled": "2026-03-20T21:26:00+00:00",
+        "delay": 77,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "2537",
+        "iata": "AA2537",
+        "icao": "AAL2537",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AA7288"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C10",
+        "delay": 21,
+        "scheduled": "2026-03-20T18:10:00+00:00",
+        "estimated": "2026-03-20T18:10:00+00:00",
+        "actual": "2026-03-20T18:44:00+00:00",
+        "estimated_runway": "2026-03-20T18:44:00+00:00",
+        "actual_runway": "2026-03-20T18:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Lester B. Pearson International",
+        "timezone": "America/Toronto",
+        "iata": "YYZ",
+        "icao": "CYYZ",
+        "terminal": "1",
+        "gate": "F64",
+        "baggage": null,
+        "scheduled": "2026-03-20T19:15:00+00:00",
+        "delay": 21,
+        "estimated": "2026-03-20T19:31:00+00:00",
+        "actual": "2026-03-20T19:36:00+00:00",
+        "estimated_runway": "2026-03-20T19:36:00+00:00",
+        "actual_runway": "2026-03-20T19:36:00+00:00"
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "8732",
+        "iata": "AC8732",
+        "icao": "ACA8732",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C00B7E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C10",
+        "delay": 21,
+        "scheduled": "2026-03-20T18:10:00+00:00",
+        "estimated": "2026-03-20T18:10:00+00:00",
+        "actual": "2026-03-20T18:44:00+00:00",
+        "estimated_runway": "2026-03-20T18:44:00+00:00",
+        "actual_runway": "2026-03-20T18:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Lester B. Pearson International",
+        "timezone": "America/Toronto",
+        "iata": "YYZ",
+        "icao": "CYYZ",
+        "terminal": "1",
+        "gate": "F64",
+        "baggage": null,
+        "scheduled": "2026-03-20T19:15:00+00:00",
+        "delay": 21,
+        "estimated": "2026-03-20T19:31:00+00:00",
+        "actual": "2026-03-20T19:36:00+00:00",
+        "estimated_runway": "2026-03-20T19:36:00+00:00",
+        "actual_runway": "2026-03-20T19:36:00+00:00"
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "8133",
+        "iata": "UA8133",
+        "icao": "UAL8133",
+        "codeshared": {
+          "airline_name": "air canada",
+          "airline_iata": "ac",
+          "airline_icao": "aca",
+          "flight_number": "8732",
+          "flight_iata": "ac8732",
+          "flight_icao": "aca8732"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C00B7E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C24",
+        "delay": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "estimated": "2026-03-20T18:09:00+00:00",
+        "actual": "2026-03-20T18:14:00+00:00",
+        "estimated_runway": "2026-03-20T18:14:00+00:00",
+        "actual_runway": "2026-03-20T18:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "George Bush Intercontinental",
+        "timezone": "America/Chicago",
+        "iata": "IAH",
+        "icao": "KIAH",
+        "terminal": "B",
+        "gate": "B28",
+        "baggage": "C7",
+        "scheduled": "2026-03-20T20:40:00+00:00",
+        "delay": 6,
+        "estimated": "2026-03-20T19:44:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "6425",
+        "iata": "NZ6425",
+        "icao": "ANZ6425",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "6145",
+          "flight_iata": "ua6145",
+          "flight_icao": "ual6145"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC03F2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:07:00+00:00",
+        "estimated_runway": "2026-03-20T18:07:00+00:00",
+        "actual_runway": "2026-03-20T18:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "K6",
+        "baggage": "8",
+        "scheduled": "2026-03-20T18:46:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T18:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "7588",
+        "iata": "QR7588",
+        "icao": "QTR7588",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "1994",
+          "flight_iata": "aa1994",
+          "flight_icao": "aal1994"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9854E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:07:00+00:00",
+        "estimated_runway": "2026-03-20T18:07:00+00:00",
+        "actual_runway": "2026-03-20T18:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "K6",
+        "baggage": "8",
+        "scheduled": "2026-03-20T18:46:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T18:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Gulf Air",
+        "iata": "GF",
+        "icao": "GFA"
+      },
+      "flight": {
+        "number": "6862",
+        "iata": "GF6862",
+        "icao": "GFA6862",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "1994",
+          "flight_iata": "aa1994",
+          "flight_icao": "aal1994"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9854E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:07:00+00:00",
+        "estimated_runway": "2026-03-20T18:07:00+00:00",
+        "actual_runway": "2026-03-20T18:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "K6",
+        "baggage": "8",
+        "scheduled": "2026-03-20T18:46:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T18:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aer Lingus",
+        "iata": "EI",
+        "icao": "EIN"
+      },
+      "flight": {
+        "number": "7179",
+        "iata": "EI7179",
+        "icao": "EIN7179",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "1994",
+          "flight_iata": "aa1994",
+          "flight_icao": "aal1994"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9854E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:07:00+00:00",
+        "estimated_runway": "2026-03-20T18:07:00+00:00",
+        "actual_runway": "2026-03-20T18:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "K6",
+        "baggage": "8",
+        "scheduled": "2026-03-20T18:46:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T18:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "5212",
+        "iata": "BA5212",
+        "icao": "BAW5212",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "1994",
+          "flight_iata": "aa1994",
+          "flight_icao": "aal1994"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9854E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:07:00+00:00",
+        "estimated_runway": "2026-03-20T18:07:00+00:00",
+        "actual_runway": "2026-03-20T18:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "K6",
+        "baggage": "8",
+        "scheduled": "2026-03-20T18:46:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T18:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "AlphaSky",
+        "iata": "AS",
+        "icao": "JAG"
+      },
+      "flight": {
+        "number": "6203",
+        "iata": "AS6203",
+        "icao": "JAG6203",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "1994",
+          "flight_iata": "aa1994",
+          "flight_icao": "aal1994"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9854E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C19",
+        "delay": null,
+        "scheduled": "2026-03-20T17:55:00+00:00",
+        "estimated": "2026-03-20T17:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "1",
+        "gate": "B19",
+        "baggage": "14",
+        "scheduled": "2026-03-20T18:34:00+00:00",
+        "delay": 67,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "2178",
+        "iata": "NZ2178",
+        "icao": "ANZ2178",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "1673",
+          "flight_iata": "ua1673",
+          "flight_icao": "ual1673"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A53774"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C19",
+        "delay": null,
+        "scheduled": "2026-03-20T17:55:00+00:00",
+        "estimated": "2026-03-20T17:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "1",
+        "gate": "B19",
+        "baggage": "14",
+        "scheduled": "2026-03-20T18:34:00+00:00",
+        "delay": 67,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      },
+      "flight": {
+        "number": "3287",
+        "iata": "LX3287",
+        "icao": "SWR3287",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "1673",
+          "flight_iata": "ua1673",
+          "flight_icao": "ual1673"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A53774"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C19",
+        "delay": null,
+        "scheduled": "2026-03-20T17:55:00+00:00",
+        "estimated": "2026-03-20T17:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "1",
+        "gate": "B19",
+        "baggage": "14",
+        "scheduled": "2026-03-20T18:34:00+00:00",
+        "delay": 67,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "6037",
+        "iata": "EK6037",
+        "icao": "UAE6037",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "1673",
+          "flight_iata": "ua1673",
+          "flight_icao": "ual1673"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A53774"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C19",
+        "delay": null,
+        "scheduled": "2026-03-20T17:55:00+00:00",
+        "estimated": "2026-03-20T17:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "1",
+        "gate": "B19",
+        "baggage": "14",
+        "scheduled": "2026-03-20T18:34:00+00:00",
+        "delay": 67,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SA AVIANCA",
+        "iata": "AV",
+        "icao": "AVA"
+      },
+      "flight": {
+        "number": "2275",
+        "iata": "AV2275",
+        "icao": "AVA2275",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "1673",
+          "flight_iata": "ua1673",
+          "flight_icao": "ual1673"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A53774"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2026-03-20T17:44:00+00:00",
+        "estimated": "2026-03-20T17:44:00+00:00",
+        "actual": "2026-03-20T18:10:00+00:00",
+        "estimated_runway": "2026-03-20T18:10:00+00:00",
+        "actual_runway": "2026-03-20T18:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "A",
+        "gate": "A38",
+        "baggage": "A29",
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "delay": 26,
+        "estimated": "2026-03-20T19:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "2264",
+        "iata": "QR2264",
+        "icao": "QTR2264",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "2336",
+          "flight_iata": "aa2336",
+          "flight_icao": "aal2336"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC72F0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2026-03-20T17:44:00+00:00",
+        "estimated": "2026-03-20T17:44:00+00:00",
+        "actual": "2026-03-20T18:10:00+00:00",
+        "estimated_runway": "2026-03-20T18:10:00+00:00",
+        "actual_runway": "2026-03-20T18:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "A",
+        "gate": "A38",
+        "baggage": "A29",
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "delay": 26,
+        "estimated": "2026-03-20T19:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "4502",
+        "iata": "QF4502",
+        "icao": "QFA4502",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "2336",
+          "flight_iata": "aa2336",
+          "flight_icao": "aal2336"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC72F0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2026-03-20T17:44:00+00:00",
+        "estimated": "2026-03-20T17:44:00+00:00",
+        "actual": "2026-03-20T18:10:00+00:00",
+        "estimated_runway": "2026-03-20T18:10:00+00:00",
+        "actual_runway": "2026-03-20T18:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "A",
+        "gate": "A38",
+        "baggage": "A29",
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "delay": 26,
+        "estimated": "2026-03-20T19:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Gulf Air",
+        "iata": "GF",
+        "icao": "GFA"
+      },
+      "flight": {
+        "number": "6591",
+        "iata": "GF6591",
+        "icao": "GFA6591",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "2336",
+          "flight_iata": "aa2336",
+          "flight_icao": "aal2336"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC72F0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2026-03-20T17:44:00+00:00",
+        "estimated": "2026-03-20T17:44:00+00:00",
+        "actual": "2026-03-20T18:10:00+00:00",
+        "estimated_runway": "2026-03-20T18:10:00+00:00",
+        "actual_runway": "2026-03-20T18:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "A",
+        "gate": "A38",
+        "baggage": "A29",
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "delay": 26,
+        "estimated": "2026-03-20T19:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "icao": "CPA"
+      },
+      "flight": {
+        "number": "7638",
+        "iata": "CX7638",
+        "icao": "CPA7638",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "2336",
+          "flight_iata": "aa2336",
+          "flight_icao": "aal2336"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC72F0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B02",
+        "delay": null,
+        "scheduled": "2026-03-20T17:35:00+00:00",
+        "estimated": "2026-03-20T17:35:00+00:00",
+        "actual": "2026-03-20T17:38:00+00:00",
+        "estimated_runway": "2026-03-20T17:38:00+00:00",
+        "actual_runway": "2026-03-20T17:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Minneapolis - St. Paul International",
+        "timezone": "America/Chicago",
+        "iata": "MSP",
+        "icao": "KMSP",
+        "terminal": "1",
+        "gate": "A14",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:45:00+00:00",
+        "delay": 4,
+        "estimated": "2026-03-20T18:21:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "WestJet",
+        "iata": "WS",
+        "icao": "WJA"
+      },
+      "flight": {
+        "number": "6727",
+        "iata": "WS6727",
+        "icao": "WJA6727",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "3738",
+          "flight_iata": "dl3738",
+          "flight_icao": "dal3738"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A11A81"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C26",
+        "delay": null,
+        "scheduled": "2026-03-20T17:28:00+00:00",
+        "estimated": "2026-03-20T17:28:00+00:00",
+        "actual": "2026-03-20T17:46:00+00:00",
+        "estimated_runway": "2026-03-20T17:46:00+00:00",
+        "actual_runway": "2026-03-20T17:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Newark Liberty International",
+        "timezone": "America/New_York",
+        "iata": "EWR",
+        "icao": "KEWR",
+        "terminal": "C",
+        "gate": "C84",
+        "baggage": "8",
+        "scheduled": "2026-03-20T19:13:00+00:00",
+        "delay": 19,
+        "estimated": "2026-03-20T18:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "7805",
+        "iata": "LH7805",
+        "icao": "DLH7805",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3633",
+          "flight_iata": "ua3633",
+          "flight_icao": "ual3633"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AA92C2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C26",
+        "delay": null,
+        "scheduled": "2026-03-20T17:28:00+00:00",
+        "estimated": "2026-03-20T17:28:00+00:00",
+        "actual": "2026-03-20T17:46:00+00:00",
+        "estimated_runway": "2026-03-20T17:46:00+00:00",
+        "actual_runway": "2026-03-20T17:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Newark Liberty International",
+        "timezone": "America/New_York",
+        "iata": "EWR",
+        "icao": "KEWR",
+        "terminal": "C",
+        "gate": "C84",
+        "baggage": "8",
+        "scheduled": "2026-03-20T19:13:00+00:00",
+        "delay": 19,
+        "estimated": "2026-03-20T18:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "3137",
+        "iata": "AC3137",
+        "icao": "ACA3137",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3633",
+          "flight_iata": "ua3633",
+          "flight_icao": "ual3633"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AA92C2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A2",
+        "delay": null,
+        "scheduled": "2026-03-20T17:00:00+00:00",
+        "estimated": "2026-03-20T17:00:00+00:00",
+        "actual": "2026-03-20T17:53:00+00:00",
+        "estimated_runway": "2026-03-20T17:53:00+00:00",
+        "actual_runway": "2026-03-20T17:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "E",
+        "gate": "E21",
+        "baggage": "32",
+        "scheduled": "2026-03-20T19:18:00+00:00",
+        "delay": 53,
+        "estimated": "2026-03-20T19:12:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Volaris",
+        "iata": "Y4",
+        "icao": "VOI"
+      },
+      "flight": {
+        "number": "2621",
+        "iata": "Y42621",
+        "icao": "VOI2621",
+        "codeshared": {
+          "airline_name": "frontier airlines",
+          "airline_iata": "f9",
+          "airline_icao": "fft",
+          "flight_number": "3567",
+          "flight_iata": "f93567",
+          "flight_icao": "fft3567"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A4BFC1"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A8",
+        "delay": null,
+        "scheduled": "2026-03-20T16:55:00+00:00",
+        "estimated": "2026-03-20T16:55:00+00:00",
+        "actual": "2026-03-20T17:06:00+00:00",
+        "estimated_runway": "2026-03-20T17:06:00+00:00",
+        "actual_runway": "2026-03-20T17:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Miami International Airport",
+        "timezone": "America/New_York",
+        "iata": "MIA",
+        "icao": "KMIA",
+        "terminal": null,
+        "gate": "F9",
+        "baggage": "3",
+        "scheduled": "2026-03-20T19:55:00+00:00",
+        "delay": 12,
+        "estimated": "2026-03-20T19:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Volaris",
+        "iata": "Y4",
+        "icao": "VOI"
+      },
+      "flight": {
+        "number": "2729",
+        "iata": "Y42729",
+        "icao": "VOI2729",
+        "codeshared": {
+          "airline_name": "frontier airlines",
+          "airline_iata": "f9",
+          "airline_icao": "fft",
+          "flight_number": "4136",
+          "flight_iata": "f94136",
+          "flight_icao": "fft4136"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A8785B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T16:43:00+00:00",
+        "estimated": "2026-03-20T16:43:00+00:00",
+        "actual": "2026-03-20T16:51:00+00:00",
+        "estimated_runway": "2026-03-20T16:51:00+00:00",
+        "actual_runway": "2026-03-20T16:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "A03",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:37:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": "2026-03-20T18:05:00+00:00",
+        "estimated_runway": "2026-03-20T18:05:00+00:00",
+        "actual_runway": "2026-03-20T18:05:00+00:00"
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "2173",
+        "iata": "VS2173",
+        "icao": "VIR2173",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "2545",
+          "flight_iata": "dl2545",
+          "flight_icao": "dal2545"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ABF09E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T16:43:00+00:00",
+        "estimated": "2026-03-20T16:43:00+00:00",
+        "actual": "2026-03-20T16:51:00+00:00",
+        "estimated_runway": "2026-03-20T16:51:00+00:00",
+        "actual_runway": "2026-03-20T16:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "A03",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:37:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": "2026-03-20T18:05:00+00:00",
+        "estimated_runway": "2026-03-20T18:05:00+00:00",
+        "actual_runway": "2026-03-20T18:05:00+00:00"
+      },
+      "airline": {
+        "name": "SAS",
+        "iata": "SK",
+        "icao": "SAS"
+      },
+      "flight": {
+        "number": "3220",
+        "iata": "SK3220",
+        "icao": "SAS3220",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "2545",
+          "flight_iata": "dl2545",
+          "flight_icao": "dal2545"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ABF09E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T16:43:00+00:00",
+        "estimated": "2026-03-20T16:43:00+00:00",
+        "actual": "2026-03-20T16:51:00+00:00",
+        "estimated_runway": "2026-03-20T16:51:00+00:00",
+        "actual_runway": "2026-03-20T16:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "A03",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:37:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": "2026-03-20T18:05:00+00:00",
+        "estimated_runway": "2026-03-20T18:05:00+00:00",
+        "actual_runway": "2026-03-20T18:05:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6749",
+        "iata": "LA6749",
+        "icao": "LAN6749",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "2545",
+          "flight_iata": "dl2545",
+          "flight_icao": "dal2545"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ABF09E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T16:43:00+00:00",
+        "estimated": "2026-03-20T16:43:00+00:00",
+        "actual": "2026-03-20T16:51:00+00:00",
+        "estimated_runway": "2026-03-20T16:51:00+00:00",
+        "actual_runway": "2026-03-20T16:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "A03",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:37:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": "2026-03-20T18:05:00+00:00",
+        "estimated_runway": "2026-03-20T18:05:00+00:00",
+        "actual_runway": "2026-03-20T18:05:00+00:00"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "5398",
+        "iata": "KL5398",
+        "icao": "KLM5398",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "2545",
+          "flight_iata": "dl2545",
+          "flight_icao": "dal2545"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ABF09E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B05",
+        "delay": null,
+        "scheduled": "2026-03-20T16:43:00+00:00",
+        "estimated": "2026-03-20T16:43:00+00:00",
+        "actual": "2026-03-20T16:51:00+00:00",
+        "estimated_runway": "2026-03-20T16:51:00+00:00",
+        "actual_runway": "2026-03-20T16:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "A03",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:37:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": "2026-03-20T18:05:00+00:00",
+        "estimated_runway": "2026-03-20T18:05:00+00:00",
+        "actual_runway": "2026-03-20T18:05:00+00:00"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "2375",
+        "iata": "AF2375",
+        "icao": "AFR2375",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "2545",
+          "flight_iata": "dl2545",
+          "flight_icao": "dal2545"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "ABF09E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T16:26:00+00:00",
+        "estimated": "2026-03-20T16:26:00+00:00",
+        "actual": "2026-03-20T16:27:00+00:00",
+        "estimated_runway": "2026-03-20T16:27:00+00:00",
+        "actual_runway": "2026-03-20T16:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "A17",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T17:42:00+00:00",
+        "actual": "2026-03-20T17:42:00+00:00",
+        "estimated_runway": "2026-03-20T17:42:00+00:00",
+        "actual_runway": "2026-03-20T17:42:00+00:00"
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "3484",
+        "iata": "VS3484",
+        "icao": "VIR3484",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4975",
+          "flight_iata": "dl4975",
+          "flight_icao": "dal4975"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A07F60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B06",
+        "delay": null,
+        "scheduled": "2026-03-20T10:55:00+00:00",
+        "estimated": "2026-03-20T10:55:00+00:00",
+        "actual": "2026-03-20T11:17:00+00:00",
+        "estimated_runway": "2026-03-20T11:17:00+00:00",
+        "actual_runway": "2026-03-20T11:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "LaGuardia",
+        "timezone": "America/New_York",
+        "iata": "LGA",
+        "icao": "KLGA",
+        "terminal": "C",
+        "gate": "67",
+        "baggage": null,
+        "scheduled": "2026-03-20T12:30:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T12:17:00+00:00",
+        "actual": "2026-03-20T12:23:00+00:00",
+        "estimated_runway": "2026-03-20T12:23:00+00:00",
+        "actual_runway": "2026-03-20T12:23:00+00:00"
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "5190",
+        "iata": "DL5190",
+        "icao": "DAL5190",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A3AD6D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C24",
+        "delay": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "estimated": "2026-03-20T18:09:00+00:00",
+        "actual": "2026-03-20T18:14:00+00:00",
+        "estimated_runway": "2026-03-20T18:14:00+00:00",
+        "actual_runway": "2026-03-20T18:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "George Bush Intercontinental",
+        "timezone": "America/Chicago",
+        "iata": "IAH",
+        "icao": "KIAH",
+        "terminal": "B",
+        "gate": "B28",
+        "baggage": "C7",
+        "scheduled": "2026-03-20T20:40:00+00:00",
+        "delay": 6,
+        "estimated": "2026-03-20T19:44:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "6145",
+        "iata": "UA6145",
+        "icao": "UAL6145",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC03F2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C5",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:11:00+00:00",
+        "estimated_runway": "2026-03-20T18:11:00+00:00",
+        "actual_runway": "2026-03-20T18:11:00+00:00"
+      },
+      "arrival": {
+        "airport": "LaGuardia",
+        "timezone": "America/New_York",
+        "iata": "LGA",
+        "icao": "KLGA",
+        "terminal": "B",
+        "gate": "31",
+        "baggage": "2",
+        "scheduled": "2026-03-20T19:45:00+00:00",
+        "delay": 6,
+        "estimated": "2026-03-20T19:12:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "4429",
+        "iata": "AA4429",
+        "icao": "AAL4429",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A4C527"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C3",
+        "delay": null,
+        "scheduled": "2026-03-20T18:05:00+00:00",
+        "estimated": "2026-03-20T18:05:00+00:00",
+        "actual": "2026-03-20T18:07:00+00:00",
+        "estimated_runway": "2026-03-20T18:07:00+00:00",
+        "actual_runway": "2026-03-20T18:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "3",
+        "gate": "K6",
+        "baggage": "8",
+        "scheduled": "2026-03-20T18:46:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T18:06:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "1994",
+        "iata": "AA1994",
+        "icao": "AAL1994",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A9854E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A12",
+        "delay": null,
+        "scheduled": "2026-03-20T18:01:00+00:00",
+        "estimated": "2026-03-20T18:01:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "N",
+        "gate": "E41",
+        "baggage": "N4",
+        "scheduled": "2026-03-20T20:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "4209",
+        "iata": "F94209",
+        "icao": "FFT4209",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A3E911"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C19",
+        "delay": null,
+        "scheduled": "2026-03-20T17:55:00+00:00",
+        "estimated": "2026-03-20T17:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "1",
+        "gate": "B19",
+        "baggage": "14",
+        "scheduled": "2026-03-20T18:34:00+00:00",
+        "delay": 67,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "1673",
+        "iata": "UA1673",
+        "icao": "UAL1673",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N435UA",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "A53774"
+      },
+      "live": {
+        "updated": "2026-03-21T00:03:19+00:00",
+        "latitude": 41.7796,
+        "longitude": -87.5738,
+        "altitude": 3352.8,
+        "direction": 301,
+        "speed_horizontal": 635.236,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B10",
+        "delay": null,
+        "scheduled": "2026-03-20T17:55:00+00:00",
+        "estimated": "2026-03-20T17:55:00+00:00",
+        "actual": "2026-03-20T18:26:00+00:00",
+        "estimated_runway": "2026-03-20T18:26:00+00:00",
+        "actual_runway": "2026-03-20T18:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Baltimore/Washington International Thurgood Marshall",
+        "timezone": "America/New_York",
+        "iata": "BWI",
+        "icao": "KBWI",
+        "terminal": null,
+        "gate": "A15",
+        "baggage": "2",
+        "scheduled": "2026-03-20T19:15:00+00:00",
+        "delay": 32,
+        "estimated": "2026-03-20T19:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Southwest Airlines",
+        "iata": "WN",
+        "icao": "SWA"
+      },
+      "flight": {
+        "number": "1514",
+        "iata": "WN1514",
+        "icao": "SWA1514",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A55F31"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2026-03-20T17:44:00+00:00",
+        "estimated": "2026-03-20T17:44:00+00:00",
+        "actual": "2026-03-20T18:10:00+00:00",
+        "estimated_runway": "2026-03-20T18:10:00+00:00",
+        "actual_runway": "2026-03-20T18:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "A",
+        "gate": "A38",
+        "baggage": "A29",
+        "scheduled": "2026-03-20T19:59:00+00:00",
+        "delay": 26,
+        "estimated": "2026-03-20T19:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "2336",
+        "iata": "AA2336",
+        "icao": "AAL2336",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AC72F0"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B02",
+        "delay": null,
+        "scheduled": "2026-03-20T17:35:00+00:00",
+        "estimated": "2026-03-20T17:35:00+00:00",
+        "actual": "2026-03-20T17:38:00+00:00",
+        "estimated_runway": "2026-03-20T17:38:00+00:00",
+        "actual_runway": "2026-03-20T17:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Minneapolis - St. Paul International",
+        "timezone": "America/Chicago",
+        "iata": "MSP",
+        "icao": "KMSP",
+        "terminal": "1",
+        "gate": "A14",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:45:00+00:00",
+        "delay": 4,
+        "estimated": "2026-03-20T18:21:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "3738",
+        "iata": "DL3738",
+        "icao": "DAL3738",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A11A81"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C26",
+        "delay": null,
+        "scheduled": "2026-03-20T17:28:00+00:00",
+        "estimated": "2026-03-20T17:28:00+00:00",
+        "actual": "2026-03-20T17:46:00+00:00",
+        "estimated_runway": "2026-03-20T17:46:00+00:00",
+        "actual_runway": "2026-03-20T17:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Newark Liberty International",
+        "timezone": "America/New_York",
+        "iata": "EWR",
+        "icao": "KEWR",
+        "terminal": "C",
+        "gate": "C84",
+        "baggage": "8",
+        "scheduled": "2026-03-20T19:13:00+00:00",
+        "delay": 19,
+        "estimated": "2026-03-20T18:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "3633",
+        "iata": "UA3633",
+        "icao": "UAL3633",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AA92C2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T16:26:00+00:00",
+        "estimated": "2026-03-20T16:26:00+00:00",
+        "actual": "2026-03-20T16:27:00+00:00",
+        "estimated_runway": "2026-03-20T16:27:00+00:00",
+        "actual_runway": "2026-03-20T16:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "A17",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T17:42:00+00:00",
+        "actual": "2026-03-20T17:42:00+00:00",
+        "estimated_runway": "2026-03-20T17:42:00+00:00",
+        "actual_runway": "2026-03-20T17:42:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8452",
+        "iata": "LA8452",
+        "icao": "LAN8452",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4975",
+          "flight_iata": "dl4975",
+          "flight_icao": "dal4975"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A07F60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T16:26:00+00:00",
+        "estimated": "2026-03-20T16:26:00+00:00",
+        "actual": "2026-03-20T16:27:00+00:00",
+        "estimated_runway": "2026-03-20T16:27:00+00:00",
+        "actual_runway": "2026-03-20T16:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "A17",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T17:42:00+00:00",
+        "actual": "2026-03-20T17:42:00+00:00",
+        "estimated_runway": "2026-03-20T17:42:00+00:00",
+        "actual_runway": "2026-03-20T17:42:00+00:00"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "6794",
+        "iata": "KL6794",
+        "icao": "KLM6794",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4975",
+          "flight_iata": "dl4975",
+          "flight_icao": "dal4975"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A07F60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T16:26:00+00:00",
+        "estimated": "2026-03-20T16:26:00+00:00",
+        "actual": "2026-03-20T16:27:00+00:00",
+        "estimated_runway": "2026-03-20T16:27:00+00:00",
+        "actual_runway": "2026-03-20T16:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "A17",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T17:42:00+00:00",
+        "actual": "2026-03-20T17:42:00+00:00",
+        "estimated_runway": "2026-03-20T17:42:00+00:00",
+        "actual_runway": "2026-03-20T17:42:00+00:00"
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "7318",
+        "iata": "KE7318",
+        "icao": "KAL7318",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4975",
+          "flight_iata": "dl4975",
+          "flight_icao": "dal4975"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A07F60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T16:26:00+00:00",
+        "estimated": "2026-03-20T16:26:00+00:00",
+        "actual": "2026-03-20T16:27:00+00:00",
+        "estimated_runway": "2026-03-20T16:27:00+00:00",
+        "actual_runway": "2026-03-20T16:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "A17",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T17:42:00+00:00",
+        "actual": "2026-03-20T17:42:00+00:00",
+        "estimated_runway": "2026-03-20T17:42:00+00:00",
+        "actual_runway": "2026-03-20T17:42:00+00:00"
+      },
+      "airline": {
+        "name": "China Airlines",
+        "iata": "CI",
+        "icao": "CAL"
+      },
+      "flight": {
+        "number": "9089",
+        "iata": "CI9089",
+        "icao": "CAL9089",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4975",
+          "flight_iata": "dl4975",
+          "flight_icao": "dal4975"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A07F60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B6A",
+        "delay": null,
+        "scheduled": "2026-03-20T16:26:00+00:00",
+        "estimated": "2026-03-20T16:26:00+00:00",
+        "actual": "2026-03-20T16:27:00+00:00",
+        "estimated_runway": "2026-03-20T16:27:00+00:00",
+        "actual_runway": "2026-03-20T16:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "A17",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:09:00+00:00",
+        "delay": null,
+        "estimated": "2026-03-20T17:42:00+00:00",
+        "actual": "2026-03-20T17:42:00+00:00",
+        "estimated_runway": "2026-03-20T17:42:00+00:00",
+        "actual_runway": "2026-03-20T17:42:00+00:00"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "3511",
+        "iata": "AF3511",
+        "icao": "AFR3511",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "4975",
+          "flight_iata": "dl4975",
+          "flight_icao": "dal4975"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A07F60"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C29",
+        "delay": null,
+        "scheduled": "2026-03-20T16:09:00+00:00",
+        "estimated": "2026-03-20T16:09:00+00:00",
+        "actual": "2026-03-20T16:17:00+00:00",
+        "estimated_runway": "2026-03-20T16:17:00+00:00",
+        "actual_runway": "2026-03-20T16:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Chicago O'hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "2",
+        "gate": "F14",
+        "baggage": "14",
+        "scheduled": "2026-03-20T16:55:00+00:00",
+        "delay": 8,
+        "estimated": "2026-03-20T16:13:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "2172",
+        "iata": "NZ2172",
+        "icao": "ANZ2172",
+        "codeshared": {
+          "airline_name": "united airlines",
+          "airline_iata": "ua",
+          "airline_icao": "ual",
+          "flight_number": "3611",
+          "flight_iata": "ua3611",
+          "flight_icao": "ual3611"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "AA4B32"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C5",
+        "delay": null,
+        "scheduled": "2026-03-20T16:05:00+00:00",
+        "estimated": "2026-03-20T16:05:00+00:00",
+        "actual": "2026-03-20T16:07:00+00:00",
+        "estimated_runway": "2026-03-20T16:07:00+00:00",
+        "actual_runway": "2026-03-20T16:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Philadelphia International",
+        "timezone": "America/New_York",
+        "iata": "PHL",
+        "icao": "KPHL",
+        "terminal": "F",
+        "gate": "F21",
+        "baggage": "F1",
+        "scheduled": "2026-03-20T17:38:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T16:58:00+00:00",
+        "actual": "2026-03-20T17:02:00+00:00",
+        "estimated_runway": "2026-03-20T17:02:00+00:00",
+        "actual_runway": "2026-03-20T17:02:00+00:00"
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "2398",
+        "iata": "QR2398",
+        "icao": "QTR2398",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "5341",
+          "flight_iata": "aa5341",
+          "flight_icao": "aal5341"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A6CAD3"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "C5",
+        "delay": null,
+        "scheduled": "2026-03-20T16:05:00+00:00",
+        "estimated": "2026-03-20T16:05:00+00:00",
+        "actual": "2026-03-20T16:07:00+00:00",
+        "estimated_runway": "2026-03-20T16:07:00+00:00",
+        "actual_runway": "2026-03-20T16:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Philadelphia International",
+        "timezone": "America/New_York",
+        "iata": "PHL",
+        "icao": "KPHL",
+        "terminal": "F",
+        "gate": "F21",
+        "baggage": "F1",
+        "scheduled": "2026-03-20T17:38:00+00:00",
+        "delay": 2,
+        "estimated": "2026-03-20T16:58:00+00:00",
+        "actual": "2026-03-20T17:02:00+00:00",
+        "estimated_runway": "2026-03-20T17:02:00+00:00",
+        "actual_runway": "2026-03-20T17:02:00+00:00"
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "6569",
+        "iata": "BA6569",
+        "icao": "BAW6569",
+        "codeshared": {
+          "airline_name": "american airlines",
+          "airline_iata": "aa",
+          "airline_icao": "aal",
+          "flight_number": "5341",
+          "flight_iata": "aa5341",
+          "flight_icao": "aal5341"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A6CAD3"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "B04",
+        "delay": null,
+        "scheduled": "2026-03-20T17:08:00+00:00",
+        "estimated": "2026-03-20T17:08:00+00:00",
+        "actual": "2026-03-20T17:51:00+00:00",
+        "estimated_runway": "2026-03-20T17:51:00+00:00",
+        "actual_runway": "2026-03-20T17:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "LaGuardia",
+        "timezone": "America/New_York",
+        "iata": "LGA",
+        "icao": "KLGA",
+        "terminal": "C",
+        "gate": "62",
+        "baggage": null,
+        "scheduled": "2026-03-20T18:44:00+00:00",
+        "delay": 43,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "5286",
+        "iata": "DL5286",
+        "icao": "DAL5286",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A34215"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A2",
+        "delay": null,
+        "scheduled": "2026-03-20T17:00:00+00:00",
+        "estimated": "2026-03-20T17:00:00+00:00",
+        "actual": "2026-03-20T17:53:00+00:00",
+        "estimated_runway": "2026-03-20T17:53:00+00:00",
+        "actual_runway": "2026-03-20T17:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "timezone": "America/Chicago",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "terminal": "E",
+        "gate": "E21",
+        "baggage": "32",
+        "scheduled": "2026-03-20T19:18:00+00:00",
+        "delay": 53,
+        "estimated": "2026-03-20T19:12:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "3567",
+        "iata": "F93567",
+        "icao": "FFT3567",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A4BFC1"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-03-20",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hopkins International",
+        "timezone": "America/New_York",
+        "iata": "CLE",
+        "icao": "KCLE",
+        "terminal": null,
+        "gate": "A8",
+        "delay": null,
+        "scheduled": "2026-03-20T16:55:00+00:00",
+        "estimated": "2026-03-20T16:55:00+00:00",
+        "actual": "2026-03-20T17:06:00+00:00",
+        "estimated_runway": "2026-03-20T17:06:00+00:00",
+        "actual_runway": "2026-03-20T17:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Miami International Airport",
+        "timezone": "America/New_York",
+        "iata": "MIA",
+        "icao": "KMIA",
+        "terminal": null,
+        "gate": "F9",
+        "baggage": "3",
+        "scheduled": "2026-03-20T19:55:00+00:00",
+        "delay": 12,
+        "estimated": "2026-03-20T19:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Frontier Airlines",
+        "iata": "F9",
+        "icao": "FFT"
+      },
+      "flight": {
+        "number": "4136",
+        "iata": "F94136",
+        "icao": "FFT4136",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "A8785B"
+      },
+      "live": null
+    }
+  ]
+}
