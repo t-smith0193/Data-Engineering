@@ -1,6 +1,6 @@
 # CLE Departures Pipeline
 
-End-to-end data engineering pipeline that ingests flight departure data from the AviationStack API, orchestrated with Dagster and processed in Databricks using a medallion architecture with a built-in dashboard. The pipeline runs on an hourly schedule and is designed to handle limitations of the free API tier, which restricts responses to 100 flights per request. Future enhancements include expanding coverage to continental U.S. routes and developing a standby travel model to identify routes with the highest number of flight options.
+End-to-end data engineering pipeline that ingests flight departure data from the AviationStack API, orchestrated with Dagster and processed in Databricks using a medallion architecture with a built-in dashboard. The pipeline runs on a daily schedule and is designed to handle limitations of the free API tier, which restricts responses to 100 flights per request. Future enhancements include expanding coverage to continental U.S. routes and developing a standby travel model to identify routes with the highest number of flight options.
 <br><br>
 
 
