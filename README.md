@@ -1,4 +1,4 @@
-# Data Engineering Projects
+# Projects
 A collection of real-world data engineering projects focused on building scalable data pipelines and turning raw data into actionable insights.
 
 | Project | Description |
