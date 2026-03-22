@@ -29,6 +29,8 @@ Steps:
 
 7. Enabled additional montioring by installing Amazon CloudWatch Agent onto EC2 instance directly.  
    
-      <img width="936" height="99" alt="Screenshot 2026-03-22 120722" src="https://github.com/user-attachments/assets/d90ac559-eb86-44d1-8c27-90f5657b0ef8" />
+      <img width="911" height="149" alt="image" src="https://github.com/user-attachments/assets/6a689668-2f33-4c63-97ae-a58b31a109b1" />
+
+
 
 
