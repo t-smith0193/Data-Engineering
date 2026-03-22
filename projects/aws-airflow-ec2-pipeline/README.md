@@ -15,5 +15,9 @@ Steps:
      
      <img width="589" height="440" alt="Screenshot 2026-03-22 005021" src="https://github.com/user-attachments/assets/a6f705a3-8902-40c6-abc7-511cddf67bf1" />
 
-3. Launched an EC2 instance and set up the security group to only allow SSH from my IP, keeping everything else closed off. Instead of opening port 8080 to the public, I’m using SSH port forwarding to access the Airflow UI locally.
-4. 
+3. Launched an EC2 instance and set up the security group to only allow SSH from my IP, keeping everything else closed off. Instead of opening port 8080 to the public, I’m using SSH port forwarding to access the Airflow UI locally.  
+4. Installed Docker on EC2 instance.  
+     <img width="709" height="60" alt="Screenshot 2026-03-22 014647" src="https://github.com/user-attachments/assets/0322d627-e0a1-4ba4-8c5b-4517c8e3f032" />
+
+5. 
+
