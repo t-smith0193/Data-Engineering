@@ -31,6 +31,6 @@ Steps:
    
       <img width="911" height="149" alt="image" src="https://github.com/user-attachments/assets/6a689668-2f33-4c63-97ae-a58b31a109b1" />
 
-
+8. Extended Apache Airflow Docker environment to include custom dependencies and built a system health monitoring DAG that collects runtime metrics and publishes alerts via AWS SNS and Slack.
 
 
