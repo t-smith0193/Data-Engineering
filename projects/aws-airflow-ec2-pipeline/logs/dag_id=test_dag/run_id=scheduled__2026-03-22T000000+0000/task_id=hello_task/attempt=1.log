@@ -1,0 +1,13 @@
+{"timestamp":"2026-03-22T04:48:03.327510Z","level":"info","event":"Stats instance was created in PID 7 but accessed in PID 222. Re-initializing.","logger":"airflow.stats","filename":"stats.py","lineno":57}
+{"timestamp":"2026-03-22T04:48:04.516047Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-22T04:48:04.517659Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-22T04:48:04.532722Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/test_dag.py","lineno":4,"logger":"py.warnings"}
+{"timestamp":"2026-03-22T04:48:04.569946Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.570299Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.570565Z","level":"info","event":"Current task name:hello_task","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.570773Z","level":"info","event":"Dag name:test_dag","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.572347Z","level":"info","event":"Airflow pipeline is working","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.572705Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-03-22T04:48:04.592268Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.592576Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-03-22T04:48:04.592846Z","level":"info","event":"Task operator:<Task(PythonOperator): hello_task>","logger":"task.stdout"}
