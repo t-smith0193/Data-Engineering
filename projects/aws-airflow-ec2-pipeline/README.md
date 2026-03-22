@@ -11,7 +11,7 @@ This project evolved from an [initial aviation data pipeline](https://github.com
 
 Steps:
 1. Enable Hyper-V in BIOS to install/run Docker Desktop  
-2. [Install Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html) on Docker via docker-compose.yaml. Local test_dag ran succesfully.
+2. [Install Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html) on Docker via docker-compose.yaml. Verified Dockerized Airflow locally by creating and executing a test DAG, with logs captured successfully through the Airflow UI.
      
      <img width="589" height="440" alt="Screenshot 2026-03-22 005021" src="https://github.com/user-attachments/assets/a6f705a3-8902-40c6-abc7-511cddf67bf1" />
 
