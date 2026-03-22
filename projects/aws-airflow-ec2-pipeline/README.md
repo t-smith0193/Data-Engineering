@@ -21,4 +21,11 @@ Steps:
 
      <img width="589" height="440" alt="Screenshot 2026-03-22 005021" src="https://github.com/user-attachments/assets/a6f705a3-8902-40c6-abc7-511cddf67bf1" />
 
+6. Set up CloudWatch-based monitoring with SNS, Lambda, and Slack integrations to alert on EC2 CPU utilization and instance health.  
+
+      <img width="271" height="242" alt="image" src="https://github.com/user-attachments/assets/eb9246c0-1a1a-4a3c-b77f-5326a69d3467" />
+      <img width="172" height="207" alt="image" src="https://github.com/user-attachments/assets/9d70de58-476d-4995-9c61-90d8ef15579b" />  
+      <img width="276" height="137" alt="image" src="https://github.com/user-attachments/assets/6630e0f3-d140-4646-b7ad-ff70bf400daa" />  
+
+
 
