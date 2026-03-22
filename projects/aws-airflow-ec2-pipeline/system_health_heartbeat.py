@@ -9,7 +9,7 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 
 
-SNS_TOPIC_ARN = os.getenv("SNS_TOPIC_ARN", "REPLACE_ME")
+SNS_TOPIC_ARN = os.getenv("SNS_TOPIC_ARN")
 AWS_REGION = os.getenv("AWS_REGION", "us-east-2")
 
 
@@ -44,9 +44,6 @@ def send_system_health():
         f"issues: {', '.join(issues) if issues else 'none'}\n"
         f"timestamp: {timestamp}"
     )
-
-    if SNS_TOPIC_ARN == "REPLACE_ME":
-        raise ValueError("SNS_TOPIC_ARN is not set.")
 
     sns = boto3.client("sns", region_name=AWS_REGION)
     sns.publish(
