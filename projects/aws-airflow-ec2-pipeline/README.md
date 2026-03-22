@@ -25,12 +25,15 @@ Steps:
 
       <img width="271" height="242" alt="image" src="https://github.com/user-attachments/assets/eb9246c0-1a1a-4a3c-b77f-5326a69d3467" />
       <img width="172" height="207" alt="image" src="https://github.com/user-attachments/assets/9d70de58-476d-4995-9c61-90d8ef15579b" />  
-      <img width="276" height="137" alt="image" src="https://github.com/user-attachments/assets/6630e0f3-d140-4646-b7ad-ff70bf400daa" />
 
-7. Enabled additional montioring by installing Amazon CloudWatch Agent onto EC2 instance directly.  
+7. Enabled additional montioring by installing Amazon CloudWatch Agent onto EC2 instance directly and implemented IAM role-based authentication.  
    
       <img width="911" height="149" alt="image" src="https://github.com/user-attachments/assets/6a689668-2f33-4c63-97ae-a58b31a109b1" />
 
-8. Extended Apache Airflow Docker environment to include custom dependencies and built a system health monitoring DAG that collects runtime metrics and publishes alerts via AWS SNS and Slack.
+8. Extended Apache Airflow Docker environment to include custom dependencies (boto3, psutil) and built a system health monitoring DAG (system_health_heartbeat) that collects runtime metrics and publishes hourly alerts via AWS SNS and Slack.
+
+      <img width="352" height="235" alt="image" src="https://github.com/user-attachments/assets/61306281-e94d-416e-8f91-7fbf0a2c48cc" />
+
+
 
 
