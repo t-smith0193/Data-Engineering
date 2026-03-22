@@ -9,4 +9,4 @@ The goal of this project is to replicate a production-style data engineering sta
 - S3 for storage  
 - Databricks for transformation
 
-This project evolved from an initial aviation data pipeline orchestrated with Dagster on a local machine. To create a more realistic, production-like setup, I wanted to create a Dockerized Apache Airflow deployment on AWS EC2, allowing pipelines to run independently of local infrastructure.
+This project evolved from an [initial aviation data pipeline](https://github.com/t-smith0193/Data-Engineering/tree/main/projects/aviation_departure_analytics) orchestrated with Dagster on a local machine. To create a more realistic, production-like setup, I wanted to create a Dockerized Apache Airflow deployment on AWS EC2, allowing pipelines to run independently of local infrastructure.
