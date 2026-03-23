@@ -1,14 +1,6 @@
-# Runtime State Management
+# Data Ingestion DAGs
 
 ---
-To avoid duplicate data, the ingestion DAG keeps a lightweight local state file that tracks the latest METAR observation. Since the API returns overlapping time windows, this ensures only new records are stored each run.
+### awc_metar_to_s3.py
 
-Example structure:
-
-```json
-{
-  "KSFO": {
-    "latest_report_time": "2026-03-23T20:56:00Z",
-    "latest_record_id": "KSFO|2026-03-23T20:56:00Z|..."
-  }
-}
+Airflow DAG that ingests recent KSFO METAR data from the Aviation Weather Center API and stores new observations in S3. A lightweight local state file is used to track the latest processed record, ensuring overlapping API responses do not create duplicate data.
