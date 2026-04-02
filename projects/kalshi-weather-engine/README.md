@@ -24,9 +24,9 @@ Unlike places like New York, Chicago, or Miami, where temperature is often drive
 - Cloud and fog burn-off timing  
 - Coastal vs inland temperature divergence  
 
-This makes the outcome much less deterministic and more sensitive to subtle forecast details, especially in NWS discussions.
+This makes the outcome much less deterministic and more sensitive to subtle forecast details, especially in National Weather Service (NWS) discussions.
 
-From a modeling perspective, that’s exactly what I wanted:
+From a modeling perspective, it's ideal for the following reasons:
 - It’s harder to predict so there is more opportunity for edge  
 - It forces deeper understanding of weather mechanics  
 - It makes forecast interpretation (not just raw data) more valuable  
@@ -79,7 +79,7 @@ Overall, the edge doesn’t come from perfectly predicting the weather, it comes
 
 The system has shown strong early performance by focusing on trading the distribution of outcomes rather than making single-point predictions.
 
-Across multiple days, the strategy consistently captures value by identifying mispriced temperature brackets and trading around them (both YES and NO positions), rather than trying to perfectly predict the final high. As uncertainty collapses throughout the day, positions in losing brackets decay rapidly—creating opportunities similar to options expiry dynamics.
+Across multiple days, the strategy consistently captures value by identifying mispriced temperature brackets and trading around them (both YES and NO positions), rather than trying to perfectly predict the final high. As uncertainty collapses throughout the day, positions in losing brackets decay rapidly, creating opportunities similar to options expiry dynamics.
 
 The examples below show realized payouts across different days, with profits coming from correctly positioning across multiple brackets and exploiting how the market reprices as weather conditions evolve.
 
