@@ -1,7 +1,7 @@
 # Runtime State Management
 
 ---
-To avoid duplicate data, the ingestion DAG keeps a lightweight local state file that tracks the latest METAR observation. Since the API returns overlapping time windows, this ensures only new records are stored each run.
+To avoid duplicate data, the ingestion DAG keeps a lightweight local state file that tracks the latest METAR/TAF observations. Since the API returns overlapping time windows, this ensures only new records are stored each run.
 
 Example structure:
 
