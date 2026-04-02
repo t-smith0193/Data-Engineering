@@ -1,3 +1,13 @@
 psutil
 boto3
 requests
+beautifulsoup4
+pendulum
+lxml
+duckdb
+python-dotenv
+pyarrow
+xarray
+netCDF4
+numpy
+pandas
