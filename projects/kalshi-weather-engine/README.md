@@ -107,4 +107,14 @@ Overall, this approach, treating the market like a volatility surface rather tha
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33dc3c98-49da-407f-b23e-ee0eb8749f92" width="320">
+  <img src="https://github.com/user-attachments/assets/9cdcc62e-4c90-4674-a997-69e31fa42b9b" width="320">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9f46b0f-3391-4a48-bc0c-45ac7c1f30b9" width="320">
+  <img src="https://github.com/user-attachments/assets/11590619-d0f0-4dc2-aedf-d1b5e45bcdf1" width="320">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75c55c0c-2e96-468f-888d-9430cbaafdec" width="320">
 </p>
