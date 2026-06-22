@@ -116,5 +116,7 @@ Overall, this approach, treating the market like a volatility surface rather tha
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75c55c0c-2e96-468f-888d-9430cbaafdec" width="320">
+  <img width="320" height="320" alt="IMG_5822" src="https://github.com/user-attachments/assets/25eb9dd7-ac06-4610-9e19-41abcb3cb95a" />
 </p>
+
+
